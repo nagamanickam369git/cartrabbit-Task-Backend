@@ -1,4 +1,4 @@
-# Getting Started with MongoDB withh expresss.js file
+# Getting Started with MongoDB with expresss.js file
 
 ## `npm init`
 
@@ -12,7 +12,7 @@ To create new Project
 
 Goto package.json page and make   "start" : "nodemon index.js"
 
-Run Your backend Server http://Localhost:5000/
+Run Your backend Server http://localhost:5000/
 
 ### `npm start`
 
